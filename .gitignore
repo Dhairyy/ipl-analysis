@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+
+# DS Store (Mac)
+.DS_Store
+
+# Environment
+.env
+venv/
