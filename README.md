@@ -39,12 +39,19 @@ scoring trends, and seasonal evolution of the game.
 
 ipl-analysis/
 │
+
 ├── data/
+
 │ ├── matches.csv
+
 │ └── deliveries.csv
+
 │
+
 ├── ipl_analysis.ipynb
+
 ├── .gitignore
+
 └── README.md
 
 ## 📊 Dataset
